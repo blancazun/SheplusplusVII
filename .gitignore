@@ -3,4 +3,4 @@
 *.class
 /build/*
 /dist/*
-/nbproject/*
+/nbproject/private/*
