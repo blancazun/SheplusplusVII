@@ -10,27 +10,16 @@ package conceptos;
  */
 public class tiposdevariables {
     
-     
-    private int edad;
-    private double altura;
-    private boolean esEstudiante;
-    private String nombre;
+    // declarar variables private, int, double, boolean, String 
+
 
     // Constructor que recibe los parámetros
         public tiposdevariables(int edad, double altura, boolean esEstudiante, String nombre) {
-        this.edad = edad;
-        this.altura = altura;
-        this.esEstudiante = esEstudiante;
-        this.nombre = nombre;
+
         }
-        
+        // metodo mostrar informcion 
         public void mostrarInformacion() {
-        System.out.println(nombre + " tiene " + edad + " años y mide " + altura + " metros.");
-        if (esEstudiante) {
-            System.out.println(nombre + " es estudiante.");
-        } else {
-            System.out.println(nombre + " no es estudiante.");
-        }
+
         }
 
     public static void main(String[] args) {
