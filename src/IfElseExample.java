@@ -12,31 +12,26 @@ public class IfElseExample {
     
       // Método para verificar si una persona es mayor de edad
     public void verificarEdad(int edad) {
-        if (edad >= 18) {
-            System.out.println("La persona es mayor de edad.");
-        } else {
-            System.out.println("La persona es menor de edad.");
-        }
+
     }
 
     // Método para verificar si un estudiante ha aprobado
     public void verificarAprobacion(boolean esEstudiante, double promedio) {
-        if (esEstudiante && promedio >= 70.0) {
-            System.out.println("El estudiante ha aprobado.");
-        } else {
-            System.out.println("El estudiante no ha aprobado.");
-        }
+
     }
 
     // Método para determinar el signo de un número
     public void determinarSigno(int numero) {
-        if (numero > 0) {
-            System.out.println("El número es positivo.");
-        } else if (numero < 0) {
-            System.out.println("El número es negativo.");
-        } else {
-            System.out.println("El número es cero.");
-        }
+
     }
+
+        public static void main(String[] args) {
+        //Instanciar objeto
+        
+        //Asignar valores a sus atributos
+        
+        //Utilizar sus métodos
+    }
+
     
 }
