@@ -1,14 +1,12 @@
 
 package Desafío;
 
-/**
- *
- * @author bzuni
- */
 public class GuessGame {
     //Atributos
     
     //Constructor
+    //Crear número aleatorio entre 1 y 100
+    
     
     //Método jugar
     

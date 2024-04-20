@@ -1,10 +1,6 @@
 
 package OOP;
 
-/**
- *
- * @author bzuni
- */
 public class Person {
     //Atributos
     
