@@ -12,26 +12,23 @@ public class ejemplowhile {
     
      // Método para contar hasta cierto número usando un bucle while
     public void contarHastausandowhile(int limite) {
-        int contador = 1;
-
-        System.out.println("Contando hasta " + limite + " usando un bucle while:");
-        while (contador <= limite) {
-            System.out.println(contador);
-            contador++;
-        }
+        
     }
 
     // Método para sumar números hasta que la suma supere un límite usando un bucle while
     public void sumarHastaLimite(int limite) {
-        int suma = 0;
-        int numero = 1;
+        // darle valores a la variable suma y numero 
 
-        System.out.println("\nSumando números hasta que la suma supere " + limite + " usando un bucle while:");
-        while (suma <= limite) {
-            suma += numero;
-            System.out.println("Suma parcial: " + suma);
-            numero++;
-        }
+        // while
+
     } 
+
+        public static void main(String[] args) {
+        //Instanciar objeto 
+        
+        //Asignar valores a sus atributos
+        
+        //Utilizar sus métodos
+    }
 
 }
