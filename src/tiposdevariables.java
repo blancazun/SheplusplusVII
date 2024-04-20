@@ -32,7 +32,15 @@ public class tiposdevariables {
             System.out.println(nombre + " no es estudiante.");
         }
         }
+
+    public static void main(String[] args) {
+        //Instanciar objeto 
         
+        //Asignar valores a sus atributos
+        
+        //Utilizar sus métodos
+    }
+
         
     
     
